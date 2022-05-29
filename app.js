@@ -4,8 +4,6 @@ const portfolioSection = document.getElementById("portfolio");
 
 let showCaseLatestJobs = document.getElementById("showCaseJobProfiles");
 
-console.log(portfolioSection);
-
 let navBar = `<div class="row">
 <nav id="filter" class="col-md-12 text-center">
   <ul>
