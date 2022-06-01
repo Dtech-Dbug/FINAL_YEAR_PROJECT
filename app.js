@@ -37,7 +37,6 @@ let navBar = `<div class="row">
 </div>`;
 
 let showCaseJobs = `<div class="col-md-12">
-<h1>HELLO </h1>
 <div class="row">
   <div class="portfolio-items isotopeWrapper clearfix" id="3">
     <article class="col-sm-4 isotopeItem webdesign">
